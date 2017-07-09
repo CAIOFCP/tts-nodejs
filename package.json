@@ -1,0 +1,28 @@
+{
+  "name": "tts-nodejs",
+  "version": "1.0.0",
+  "description": "Um simples projeto node para demonstrar o uso da biblioteca Watson Tet to Speech",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackatruck/tts-nodejs.git"
+  },
+  "keywords": [
+    "watson",
+    "text-to-speech",
+    "ibm",
+    "tts"
+  ],
+  "author": "Leandro Cordeiro David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackatruck/tts-nodejs/issues"
+  },
+  "homepage": "https://github.com/hackatruck/tts-nodejs#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^2.34.0"
+  }
+}
