@@ -1,6 +1,6 @@
 {
   "name": "tts-nodejs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Um simples projeto node para demonstrar o uso da biblioteca Watson Tet to Speech",
   "main": "app.js",
   "scripts": {
