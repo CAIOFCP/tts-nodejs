@@ -16,7 +16,7 @@
     "ibm",
     "tts"
   ],
-  "author": "Leandro Cordeiro David",
+  "author": "Leandro Cordeiro David - ldavid@br.ibm.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hackatruck/tts-nodejs/issues"
