@@ -29,8 +29,8 @@ if (process.argv.length > 2){
 }
 
 var text_to_speech = new TextToSpeechV1({
-  username: config.username,
-  password: config.password
+  iam_apikey: config.apikey,
+  url: 'https://gateway-wdc.watsonplatform.net/text-to-speech/api'
 });
 
 var params = {
